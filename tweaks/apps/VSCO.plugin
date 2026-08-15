@@ -1,12 +1,9 @@
-#!name=VSCO
+#!name= Tweak｜VSCO
 
-#!desc=vsco解锁
+#!desc= VSCO解锁订阅
 
-#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/vsco.png
+#!icon= https://raw.githubusercontent.com/Linba-math/loon-plugins/main/icons/apps/CamScanner.png
 
-#!homepage=https://yfamilys.com
-
-#!author=NobyDa
 
 [Script]
 
