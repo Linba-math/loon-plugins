@@ -1,12 +1,9 @@
-#!name=西窗烛
+#!name= Tweak｜西窗烛
 
-#!desc=西窗烛会员解锁
+#!desc= 西窗烛解锁订阅
 
-#!homepage=https://yfamilys.com
+#!icon= https://raw.githubusercontent.com/Linba-math/loon-plugins/main/icons/apps/xcz.png
 
-#!author=ddgksf2013
-
-#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/xcz.png
 
 [Script]
 
