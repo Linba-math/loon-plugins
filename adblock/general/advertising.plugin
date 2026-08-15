@@ -1,7 +1,5 @@
 #!name= AD｜Advertising
 #!desc= 通用广告拦截
-#!author= blackmatrix7
-#!homepage= https://github.com/blackmatrix7/ios_rule_script
 #!icon= https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png
 
 [Rewrite]
