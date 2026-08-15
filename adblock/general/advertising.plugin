@@ -1,6 +1,6 @@
-#!name= AD｜Advertising
+#!name= AdBlock
 #!desc= 通用广告拦截
-#!icon= https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png
+#!icon= https://raw.githubusercontent.com/Linba-math/loon-plugins/main/icons/apps/AdBlock.png
 
 [Rewrite]
 (?i)\b\.ott\.cibntv\.net\/[\w\/-]+?\.mp4\?sid= - reject
