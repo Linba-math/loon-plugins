@@ -1,5 +1,6 @@
-#!name=Block Advertising
-#!desc=Block Advertising
+#!name= AD｜Blocking
+#!desc= 通用广告阻断
+#!icon= https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Advertising.png
 
 [Rule]
 
