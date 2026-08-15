@@ -2,7 +2,7 @@
 #!desc= 通用广告拦截
 #!author= blackmatrix7
 #!homepage= https://github.com/blackmatrix7/ios_rule_script
-#!icon= https://raw.githubusercontent.com/lige47/lige_icon/main/icon/02ProxySoftLogo/Loon%282%29.png
+#!icon= https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png
 
 [Rewrite]
 (?i)\b\.ott\.cibntv\.net\/[\w\/-]+?\.mp4\?sid= - reject
